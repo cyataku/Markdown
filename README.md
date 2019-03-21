@@ -85,7 +85,7 @@ task list
 <!-- GFM在HBuilder暂时没有适配,要上传到GitHub上查看 -->
 
 ## MarkDown使用emoji表情符号
->:emoji code:   
+>[详细表情符号参考表](https://github.com/cyataku/README/blob/master/emoji.md)
 
 :smile:   
 :pray:
