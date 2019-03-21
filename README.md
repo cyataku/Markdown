@@ -1,8 +1,10 @@
+<!-- 本文档使用Hubilder构建 -->
+
 # 链接样式
-1. [***知乎***](https://www.zhihu.com) <!-- 粗体加斜体 -->
-2. [~~百度百科~~](https://www.baidu.com) <!-- 删除线 -->
-3. [**Quora**](https://www.quora.com) <!-- 粗体 -->
-4. [*简书*](https://www.jianshu.com)<!-- 斜体 -->
+1. [知乎](https://www.zhihu.com) 
+2. [百度百科](https://www.baidu.com) 
+3. [Quora](https://www.quora.com) 
+4. [简书](https://www.jianshu.com)
 
 # 引入参考式链接
 - 外部链接1: [**Baidu**]   
@@ -59,17 +61,17 @@ H2
 
 <!-- 引号在左边就是居左,右边居右,两边都有就是居中. -->
 
-| **This** | **Is** | **Table head** |
-|:---|:---:|---:|
-| *Cell 1* | *Cell 2* | *Cell 3* |
-| ***Row 1*** | ***Row 2*** | ***Row 3*** |
+| This | Is | Table head |
+|:-----|:----:|---------:|
+| Cell 1 | Cell 2 | Cell 3 |
+| Row 1  | Row 2   | Row 3 |
 
 ## 精简表格
 <!-- 把表格的左右边框去掉达成的精简效果,但是为了Markdown本身的工整和可读性,一般不去掉. -->
- **This** | **Is** | **Table head** 
-:---|:---:|---:
- *Cell 1* | *Cell 2* | *Cell 3* 
- ***Row 1*** | ***Row 2*** | ***Row 3*** 
+ This | Is | Table head 
+:-----|:---:|---:
+Cell 1 | Cell 2 | Cell 3 
+ Row 1 | Row 2  | Row 3 
 
 # GFM demo
 
@@ -82,8 +84,20 @@ task list
 - [x] task3
 <!-- GFM在HBuilder暂时没有适配,要上传到GitHub上查看 -->
 
-# MarkDown使用emoji表情符号
+## MarkDown使用emoji表情符号
 >:emoji code:   
 
 :smile:   
 :pray:
+
+# 强调样式
+- 基本强调样式:   
+*倾斜*   
+**加粗**   
+~~删除~~
+
+- 混合强调样式:   
+***加粗倾斜***   
+**~~加粗删除~~**   
+*~~倾斜删除~~*   
+***~~加粗倾斜删除~~***
