@@ -6,7 +6,7 @@
 3. [Quora](https://www.quora.com) 
 4. [简书](https://www.jianshu.com)
 
-# 引入参考式链接
+# 引用式链接
 - 外部链接1: [**Baidu**]   
 - 外部链接2: [**Google**]   
 - 外部链接3: [**Yandex**]   
