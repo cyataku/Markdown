@@ -11,7 +11,7 @@
 - 外部链接2: [**Google**]   
 - 外部链接3: [**Yandex**]   
 - 外部链接4:[**Bing**]   
-- 邮箱地址: *https://www.outlook.com*
+- 邮箱地址: https://www.outlook.com
 
 <!--- 下面是本文档用到的链接(参考式) -->
 [**Google**]: https://www.google.com
