@@ -21,7 +21,7 @@
 
 # 图片样式
 <!--以下是Markdown的图片样式 -->
-![Picture From Google Doodles](https://is.gd/5L8Nb3)
+![Picture From Google Doodles](https://is.gd/NyEEO1)
 
 # Markdown代码块
 
