@@ -21,7 +21,7 @@
 
 # 图片样式
 <!--以下是Markdown的图片样式 -->
-![Picture From Google Doodles](https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736.3-l.png)
+![Picture From Google Doodles](https://is.gd/5L8Nb3)
 
 # Markdown代码块
 
