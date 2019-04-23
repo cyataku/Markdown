@@ -7,17 +7,18 @@
 4. [简书](https://www.jianshu.com)
 
 # 引用式链接
-- 外部链接1: [**Baidu**]   
-- 外部链接2: [**Google**]   
-- 外部链接3: [**Yandex**]   
-- 外部链接4:[**Bing**]   
-- 邮箱地址: https://www.outlook.com
+- 外部链接1: [Baidu]   
+- 外部链接2: [Google]   
+- 外部链接3: [Yandex]   
+- 外部链接4:[Bing]   
+- 外部链接5: [邮箱地址]
 
 <!--- 下面是本文档用到的链接(参考式) -->
-[**Google**]: https://www.google.com
-[**Baidu**]: https://www.baidu.com
-[**Yandex**]: https://www.yandex.com
-[**Bing**]: https://www.bing.com
+[Google]: https://www.google.com
+[Baidu]: https://www.baidu.com
+[Yandex]: https://www.yandex.com
+[Bing]: https://www.bing.com
+[邮箱地址]: https://outlook.com
 
 # 图片样式
 <!--以下是Markdown的图片样式 -->
