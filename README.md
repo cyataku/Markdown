@@ -83,7 +83,7 @@ task list
 - [x] task1
 - [ ] task2
 - [x] task3
-<!-- GFM在HBuilder暂时没有适配,要上传到GitHub上查看 -->
+<!--GFM在HBuilder暂时没有适配,请上传到github上查看完整效果.-->
 
 ## MarkDown使用emoji表情符号
 >[详细表情符号参考表](https://github.com/cyataku/README/blob/master/emoji.md)
