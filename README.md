@@ -88,7 +88,7 @@ task list
 ## MarkDown使用emoji表情符号
 >[详细表情符号参考表](https://github.com/cyataku/README/blob/master/emoji.md)
 
-:smile: :pray:
+:smile: :pray: :lion:
 
 # 强调样式
 - 基本强调样式:   
